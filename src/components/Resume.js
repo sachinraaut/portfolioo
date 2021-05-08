@@ -15,12 +15,12 @@ class Resume extends Component {
                         <h2 className="name">Sachin Raut</h2>
                         <h4>Frontend Web Developer</h4>
                         <hr />
-                        <p> Front end developer with 2.3 years of experience. Extensive experience and passion for building interactive user experiences, problem solving, adept knowledge of new technologies will be put to maximum use for organisation growth. </p>
+                        <p> Front end developer with 3+ years of experience. Extensive experience and passion for building interactive user experiences, problem solving, adept knowledge of new technologies will be put to maximum use for organisation growth. </p>
                         <hr />
                         <h5>Address</h5>
                         <p>Kothrud, Pune, India</p>
                         <h5>Phone</h5>
-                        <p>+91 973 039 8143</p>
+                        <p>+91 9730398143</p>
                         <h5>Email </h5>
                         <p>sachinr1013@gmail.com</p>
                         <h5>Website</h5>
@@ -33,18 +33,18 @@ class Resume extends Component {
 
                         <h2 className="resume-headings">Experience</h2>
                         <Experience 
-                            startYear={"April 2019"} 
+                            startYear={"Sept 2020"} 
                             endYear={"Till Date"}
                             jobRole = {"Frontend Developer"}
-                            companyName = { "Fantastech Solutions, Pune" }
+                            companyName = { "Livpure India Pvt. Ltd., Pune" }
                             jobDesc = { 
                                 <ul>
-                                    <li>Planned, developed, tested, deployed and maintained web applications</li>
-                                    <li>Hands on with HTML, CSS, Bootstrap, JavaScript, jQuery, Wordpress, ReactJS</li>
-                                    <li>Worked on recent frontend libraries like ReactJS with redux by adding React-MDL, Material UI, etc. </li>
-                                    <li>Writing reusable code & creating reusable web components using functional and class components</li>
-                                    <li>Worked well independently & within a team setting</li>
-                                    <li>Basic knowledge of SEO & PHP language helps to support SEO and backend developer teams</li>
+                                    <li>Writing clean & pixel perfect code to meet client requirements into application designs & system requirements</li>
+                                    <li>Creating reusable web components with the help of modern libraries like React by using functional and class components</li>
+                                    <li>Implementing new features & functionalities on site using JavaScript, AJAX & liquid language</li>
+                                    <li>Helped to achieve a responsive look of website across all devices by checking cross-browser compatibility</li>
+                                    <li>Translation of the UI/UX design wireframes to actual code that will produce visual elements of the application</li>
+                                    <li>Designing and implementing HTML email templates and newsletters for marketing campaigns</li>
                                 </ul>
                             }
                             
@@ -52,14 +52,15 @@ class Resume extends Component {
 
                         <Experience 
                             startYear={"Jan 2018"} 
-                            endYear={"April 2019"}
+                            endYear={"Aug 2020"}
                             jobRole = {"Frontend Developer"}
-                            companyName = { "Co Lab IT, Pune" }
+                            companyName = { "ColabIT LLP, Pune" }
                             jobDesc = {
                                 <ul>
-                                    <li> Effectively translated client requirements into application designs & system requirements. </li>
-                                    <li> Helped to achieve a consistent look across the website by using uniform fonts, layout</li>
-                                    <li> Translation of the UI/UX design wireframes to actual code that will produce visual elements of the application</li>
+                                    <li> Implementing a mobile-first approach to existing websites</li>
+                                    <li> Collaborating with designers to ensure designs were efficient and technically sound</li>
+                                    <li> Creating modular, responsive templates using modern CSS techniques and JavaScript libraries </li>
+                                    <li> Working directly with client stakeholders to develop technical solutions for business cases. </li>
                                 </ul>
                             }
                         />
