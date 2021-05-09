@@ -56,7 +56,7 @@ class Resume extends Component {
                             jobRole = {"Frontend Developer"}
                             companyName = { "ColabIT LLP, Pune" }
                             jobDesc = {
-                                <ul>
+                                <ul> 
                                     <li> Implementing a mobile-first approach to existing websites</li>
                                     <li> Collaborating with designers to ensure designs were efficient and technically sound</li>
                                     <li> Creating modular, responsive templates using modern CSS techniques and JavaScript libraries </li>
