@@ -12,7 +12,7 @@ class Resume extends Component {
                 <Grid className="resume-grid">
                     <Cell col={4} className="resume-left">
                         <img src={require('../images/sachin-raut2.jpeg')} className="profile-picture" alt="" />
-                        <h2 className="name">Sachin Raut</h2>
+                        <h2 className="name">Sachi Raut</h2>
                         <h4>Frontend Web Developer</h4>
                         <hr />
                         <p> Front end developer with 3+ years of experience. Extensive experience and passion for building interactive user experiences, problem solving, adept knowledge of new technologies will be put to maximum use for organisation growth. </p>
