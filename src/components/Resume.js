@@ -106,7 +106,7 @@ class Resume extends Component {
                             startYear={2009}
                             endYear={"2010 (SSC)"} 
                             schoolName = { "S.S.G.M High School, Loha, Nanded" }
-                            schoolDesc = {" Front End Web Developer using HTML, CSS, Bootstrap JavaScript, React with an emphasis on Frontend web development. Experienced in building pixel perfect and responsive web applications. Common libraries of use: Redux, react-router, redux- thunk. Common use of UI libraries: Bootstrap 4, React-Bootstrap, MaterializeCSS "}
+                            schoolDesc = {"Front End Web Developer using HTML, CSS, Bootstrap JavaScript, React with an emphasis on Frontend web development. Experienced in building pixel perfect and responsive web applications. Common libraries of use: Redux, react-router, redux- thunk. Common use of UI libraries: Bootstrap 4, React-Bootstrap, MaterializeCSS "}
                         />
                         <Education 
                             startYear={2010} 
