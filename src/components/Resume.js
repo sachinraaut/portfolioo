@@ -20,7 +20,7 @@ class Resume extends Component {
                         <h5>Address</h5>
                         <p>Kothrud, Pune, India</p>
                         <h5>Phone</h5>
-                        <p>+91 9730398143</p>
+                        <p>+91 97303981439</p>
                         <h5>Email </h5>
                         <p>sachinr1013@gmail.com</p>
                         <h5>Website</h5>
