@@ -36,7 +36,7 @@ class Resume extends Component {
                             startYear={"Sept 2020"} 
                             endYear={"Till Date"}
                             jobRole = {"Frontend Developer"}
-                            companyName = { "Livpure India Pvt. Ltd., Pune" }
+                            companyName = { " Livpure India Pvt. Ltd., Pune" }
                             jobDesc = { 
                                 <ul>
                                     <li>Writing clean & pixel perfect code to meet client requirements into application designs & system requirements</li>
