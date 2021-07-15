@@ -9,7 +9,7 @@ class Resume extends Component {
     render(){
         return(
             <div className="resume-body">
-                <Grid className="resume-grid">
+                <Grid className="resume-grid jj">
                     <Cell col={4} className="resume-left">
                         <img src={require('../images/sachin-raut2.jpeg')} className="profile-picture" alt="" />
                         <h2 className="name">Sachin Raut</h2>
